@@ -1,8 +1,9 @@
 Yes I willingly did this 🫩
 
-This repo keeps record of all my Neetcode submissions. Then I vibe-coded a reviewer using my solved-question pool.
+This tracked tree is the submission archive for my NeetCode solutions.
+The reviewer is a local, unpublished experiment built around that solved-question pool.
 
-Keeping the repo clean by storing my progress only.
+The tracked tree intentionally stores the submission history and reviewer screenshots only.
 <div align="center">
   <img src="img/review-mode.gif" alt="Review mode" width="900" />
   <br /><br />
